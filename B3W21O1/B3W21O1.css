@@ -1,0 +1,27 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	margin: 0px;
+	padding: 0px;
+	height: 1000px;
+	position: relative;
+	top: -40px;
+	color: white;
+	font-family: 'Yellowtail','Sans-Serif';
+	text-align: center;
+	font-size: 30px;
+}
+#morning{
+	background-image: url('img/morning.png');
+}
+#evening{
+	background-image: url('img/afternoon.png');
+}
+#afternoon{
+	background-image: url('img/evening.png');
+}
+#night{
+	background-image: url('img/night.png');
+}
